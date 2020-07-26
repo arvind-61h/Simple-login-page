@@ -19,12 +19,9 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+    <sonar.java.libraries>target</sonar.java.libraries>
   </properties>
-         
-  <properties>
-     <sonar.java.libraries>target</sonar.java.libraries>
-  </properties>
-
+ 
   <modules>
     <module>server</module>
     <module>webapp</module>
