@@ -207,7 +207,7 @@
     </site>
 
     <repository>
-      <id>nexus</nexus>
+      <id>nexus</id>
       <name>Login Page Binary Repository</name>
       <url>http://ec2-13-59-170-218.us-east-2.compute.amazonaws.com:8081/repository/LoginPage/</url>
     </repository>
